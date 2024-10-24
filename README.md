@@ -1,5 +1,7 @@
 # Rhaelyn's Notes
 ## Summary
 
-This repository contains all the notes taken by Rhaelyn for the Lighthouse Labs Web Development Flex Program.
-You should actually see my notes. They're color coded, otherwise it all looks THE SAME. 
+This repository contains all the notes taken by [Rhaelyn](https://github.com/rhaelynlashmar) for the [Lighthouse Labs Web](https://www.lighthouselabs.ca/) Development Bootcamp.
+You should actually see my notes. They're color coded!
+
+
